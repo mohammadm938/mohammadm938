@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hotel-reservation](https://github.com/mohammadm938/Hotel-reservation.git)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **ImMohammadm938@gmail.com**
 
